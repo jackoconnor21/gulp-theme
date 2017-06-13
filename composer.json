@@ -1,10 +1,10 @@
 {
-	"name": "jackoconnor21/silverstripe-gulp-theme",
+	"name": "jackoconnor21/gulp-theme",
 	"description": "A gulp enabled theme for SilverStripe with ES6 and SCSS support",
 	"keywords": ["silverstripe", "gulp", "npm", "es6", "scss"],
 	"type": "silverstripe-theme",
 	"version": "1.0.0",
-	"homepage": "https://github.com/jackoconnor21/silverstripe-gulp-theme",
+	"homepage": "https://github.com/jackoconnor21/gulp-theme",
 	"license": "BSD-3-Clause",
 	"authors": [
 	{
@@ -14,7 +14,7 @@
 	],
 	"support": {
 		"email": "jackoconnor21@hotmail.co.uk",
-		"issues": "https://github.com/jackoconnor21/silverstripe-gulp-theme/issues"
+		"issues": "https://github.com/jackoconnor21/gulp-theme/issues"
 	},
 	"extra": {
 		"installer-name": "gulp-theme"
