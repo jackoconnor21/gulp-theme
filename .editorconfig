@@ -1,0 +1,12 @@
+[*.{js}]
+charset = utf-8
+indent_style = tab
+indent_size = 4
+[*.{scss}]
+charset = utf-8
+indent_style = tab
+indent_size = 4
+[*.{ss}]
+charset = utf-8
+indent_style = tab
+indent_size = 4
