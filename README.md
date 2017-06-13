@@ -8,6 +8,7 @@ Once completed, run `gulp` . This will run all tasks and watches.
 Start writing ES6 and SCSS.
 
 ## Installation
+How to install..
 
 ### Composer
 Navigate to the root of your SilverStripe site in the terminal and run `composer require jackoconnor21/silverstripe-gulp-theme`
